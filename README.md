@@ -13,7 +13,7 @@ This Chrome extension scans emails for phishing indicators like suspicious URLs 
 1. **Open Chrome** and go to `chrome://extensions/`
 2. **Enable Developer mode** (toggle in the top-right corner)
 3. **Click "Load unpacked"**
-4. **Select the folder**: `C:\Users\priya\downloads\shared\Null\chrome-extension`
+4. **Select the folder**
 
 ## Usage
 1. Navigate to an email in Gmail or Outlook
